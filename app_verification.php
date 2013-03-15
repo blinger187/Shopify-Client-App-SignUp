@@ -1,4 +1,10 @@
 <?php
+/**
+ * @author ken fujimatsu
+ * @copyright Copyright (c) 2013
+ * @license http://opensource.org/licenses/gpl-3.0.html GNU Public License
+ * @version 1.1
+ **/
 include("shopify.php");
 ?>
 <div style="font-family:'Lucida Console', Monaco, monospace; font-size:8px; width:400px; margin:0px auto; margin-top:25px;">
